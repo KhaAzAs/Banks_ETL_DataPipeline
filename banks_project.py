@@ -8,6 +8,7 @@ import numpy as np
 from bs4 import BeautifulSoup
 from datetime import datetime
 
+# Function to Logging every step in process
 def log_progress(message):
     ''' This function logs the mentioned message at a given stage of the
     code execution to a log file. Function returns nothing'''
@@ -76,9 +77,8 @@ def run_queries(query_statement, sql_connection):
     query_output = pd.read_sql(query_statement, sql_connection)
     print(query_output)
 
-''' Here, you define the required entities and call the relevant 
-functions in the correct order to complete the project. Note that this
-portion is not inside any function.'''
+''' Here, define the required entities and call the relevant 
+functions in the correct order to complete the project.'''
 
 url = "https://web.archive.org/web/20230908091635 /https://en.wikipedia.org/wiki/List_of_largest_banks"
 db_name = 'Banks.db'
