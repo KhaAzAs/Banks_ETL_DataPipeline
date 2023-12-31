@@ -36,7 +36,9 @@ Data transformed to other currency (GBP, EUR, INR)
 
 ### Data Load
 Data loaded to CSV file
-![Data load](https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_4_CSV.png)
+<p align="center">
+  <img alt="Data load" src="https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_4_CSV.png">
+</p>
 
 ### Data Query
 Query on loaded data in SQL to read and analyze data. with command
@@ -49,7 +51,11 @@ SELECT AVG(MC_GBP_Billion) FROM Largest_banks
 ```
 SELECT Name from Largest_banks LIMIT 5
 ```
-![Data query](https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_6_SQL.png)
+<p align="center">
+  <img alt="Data query" src="https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_6_SQL.png">
+</p>
 
 ### Logged ETL Process
-![Code logged](https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_7_log_content.png)
+<p align="center">
+  <img alt="Code logged" src="https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_7_log_content.png">
+</p>
