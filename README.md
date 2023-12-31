@@ -23,7 +23,7 @@ Data taken from Wikipedia archived data [List of largest banks](https://web.arch
 ### Data Extracted
 Data extracted from webscraping
 <p align="center">
-![Data extracted](https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_2c_extract.png)
+  <img align="center" alt="data extracted" src="https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_2c_extract.png">
 </p>
 
 ### Data Transformed
