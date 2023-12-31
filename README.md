@@ -23,14 +23,16 @@ Data taken from Wikipedia archived data [List of largest banks](https://web.arch
 ### Data Extracted
 Data extracted from webscraping
 <p align="center">
-  <img align="center" alt="data extracted" src="https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_2c_extract.png">
+  <img alt="data extracted" src="https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_2c_extract.png">
 </p>
 
 ### Data Transformed
 Data transformed to other currency (GBP, EUR, INR)
 > [!NOTE]
 > Screenshot only show data in INR (Indian Rupee).
-![Data transformed](https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_3b_transform.png)
+<p align="center">
+  <img alt="Data transformed" src="https://raw.githubusercontent.com/KhaAzAs/ETL_Banks_Project/main/Screenshoot/Task_3b_transform.png">
+</p>
 
 ### Data Load
 Data loaded to CSV file
